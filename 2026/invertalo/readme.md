@@ -10,6 +10,8 @@
 ## 1. Mérési feladat
 A mérés célja a **TL071** típusú műveleti erősítő működésének vizsgálata invertáló alapkapcsolásban, **NI myDAQ** adatgyűjtő eszköz segítségével. A feladat során megvizsgáljuk az áramkör feszültségerősítését és átviteli karakterisztikáját.
 
+<img width="961" height="535" alt="kapcsolas" src="https://github.com/user-attachments/assets/f5630b76-4dfe-4dc5-8373-ef704dac2e93" />
+
 ## 2. Felhasznált eszközök
 
 | Eszköz / Alkatrész | Típus / Érték | Mennyiség | Megjegyzés |
@@ -52,6 +54,11 @@ A kapcsolást a próbapanelen az alábbiak szerint állítottuk össze:
     * **AI1 (Analog Input 1):** Kimeneti jel vizsgálata (TL071 6-os láb).
 
 ## 5. Mérési eredmények
+
+<img width="523" height="591" alt="generator" src="https://github.com/user-attachments/assets/6dabf40f-58eb-47a7-80f9-92528f5523f6" />
+<img width="1082" height="745" alt="szkop" src="https://github.com/user-attachments/assets/3aaa3bff-bd78-4b35-83fa-d92c63db83ab" />
+
+
 
 ### 5.1 Időtartománybeli vizsgálat
 *Beállítás:* $f = 1 \text{kHz}$ szinuszjel, $U_{pp} = 2 \text{V}$ (csúcstól-csúcsig).
