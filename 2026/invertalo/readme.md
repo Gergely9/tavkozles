@@ -37,6 +37,8 @@ $$A_u = - \frac{100\text{k}\Omega}{100\text{k}\Omega} = -1$$
 Ez egységnyi erősítést jelent 180°-os fázisdordítás mellett.
 
 ## 4. Mérési összeállítás
+![IMG_2537](https://github.com/user-attachments/assets/5a040d72-e62e-4898-9a96-82a70d61bd9d)
+
 
 A kapcsolást a próbapanelen az alábbiak szerint állítottuk össze:
 
